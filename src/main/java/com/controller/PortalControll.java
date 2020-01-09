@@ -22,7 +22,7 @@ public class PortalControll {
 	
 	@GetMapping(value = "/")
 	public String fun() {
-		
+		//keklwwe
 		return "Saikrishna....,Welcome to Spring Tool Suite Acadamyportal";
 	}
 	
